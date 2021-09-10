@@ -2,4 +2,4 @@
 
 ## 1. Timeseries Analysis
 
-### Application of time series analysis using the COVID-19 case.
+### Application of Time Series Analysis using the COVID-19 case in R
